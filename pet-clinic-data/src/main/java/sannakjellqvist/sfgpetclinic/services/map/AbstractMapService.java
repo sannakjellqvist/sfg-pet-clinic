@@ -1,4 +1,4 @@
-package annakjellqvist.sfgpetclinic.services.map;
+package sannakjellqvist.sfgpetclinic.services.map;
 
 import sannakjellqvist.sfgpetclinic.model.BaseEntity;
 

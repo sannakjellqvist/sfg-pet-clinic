@@ -1,11 +1,11 @@
 package sannakjellqvist.sfgpetclinic.bootstrap;
 
-import annakjellqvist.sfgpetclinic.services.OwnerService;
-import annakjellqvist.sfgpetclinic.services.VetService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import sannakjellqvist.sfgpetclinic.model.Owner;
 import sannakjellqvist.sfgpetclinic.model.Vet;
+import sannakjellqvist.sfgpetclinic.services.OwnerService;
+import sannakjellqvist.sfgpetclinic.services.VetService;
 
 @Component
 public class DataLoader implements CommandLineRunner {

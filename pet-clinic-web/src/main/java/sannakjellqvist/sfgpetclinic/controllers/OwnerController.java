@@ -1,9 +1,9 @@
 package sannakjellqvist.sfgpetclinic.controllers;
 
-import annakjellqvist.sfgpetclinic.services.OwnerService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import sannakjellqvist.sfgpetclinic.services.OwnerService;
 
 @RequestMapping("/owners")
 @Controller

@@ -1,4 +1,4 @@
-package annakjellqvist.sfgpetclinic.services;
+package sannakjellqvist.sfgpetclinic.services;
 
 import sannakjellqvist.sfgpetclinic.model.Vet;
 

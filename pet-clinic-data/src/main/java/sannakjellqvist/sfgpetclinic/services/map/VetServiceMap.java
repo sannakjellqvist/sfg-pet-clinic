@@ -1,8 +1,8 @@
-package annakjellqvist.sfgpetclinic.services.map;
+package sannakjellqvist.sfgpetclinic.services.map;
 
-import annakjellqvist.sfgpetclinic.services.VetService;
 import org.springframework.stereotype.Service;
 import sannakjellqvist.sfgpetclinic.model.Vet;
+import sannakjellqvist.sfgpetclinic.services.VetService;
 
 import java.util.Set;
 @Service

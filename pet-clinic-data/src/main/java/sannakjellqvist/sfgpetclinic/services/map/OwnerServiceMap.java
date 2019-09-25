@@ -1,8 +1,8 @@
-package annakjellqvist.sfgpetclinic.services.map;
+package sannakjellqvist.sfgpetclinic.services.map;
 
-import annakjellqvist.sfgpetclinic.services.OwnerService;
 import org.springframework.stereotype.Service;
 import sannakjellqvist.sfgpetclinic.model.Owner;
+import sannakjellqvist.sfgpetclinic.services.OwnerService;
 
 import java.util.Set;
 @Service
